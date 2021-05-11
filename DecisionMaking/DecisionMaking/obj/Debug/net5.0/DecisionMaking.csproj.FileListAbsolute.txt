@@ -1,0 +1,16 @@
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\obj\Debug\net5.0\DecisionMaking.csprojAssemblyReference.cache
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\obj\Debug\net5.0\DecisionMaking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\obj\Debug\net5.0\DecisionMaking.AssemblyInfoInputs.cache
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\obj\Debug\net5.0\DecisionMaking.AssemblyInfo.cs
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\obj\Debug\net5.0\DecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\bin\Debug\net5.0\DecisionMaking.exe
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\bin\Debug\net5.0\DecisionMaking.deps.json
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\bin\Debug\net5.0\DecisionMaking.runtimeconfig.json
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\bin\Debug\net5.0\DecisionMaking.runtimeconfig.dev.json
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\bin\Debug\net5.0\DecisionMaking.dll
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\bin\Debug\net5.0\ref\DecisionMaking.dll
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\bin\Debug\net5.0\DecisionMaking.pdb
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\obj\Debug\net5.0\DecisionMaking.dll
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\obj\Debug\net5.0\ref\DecisionMaking.dll
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\obj\Debug\net5.0\DecisionMaking.pdb
+C:\Users\Tiffa\source\repos\DecisionMaking\DecisionMaking\obj\Debug\net5.0\DecisionMaking.genruntimeconfig.cache

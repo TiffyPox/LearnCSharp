@@ -1,0 +1,16 @@
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\obj\Debug\net5.0\ConditionalOperator.csprojAssemblyReference.cache
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\obj\Debug\net5.0\ConditionalOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\obj\Debug\net5.0\ConditionalOperator.AssemblyInfoInputs.cache
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\obj\Debug\net5.0\ConditionalOperator.AssemblyInfo.cs
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\obj\Debug\net5.0\ConditionalOperator.csproj.CoreCompileInputs.cache
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\bin\Debug\net5.0\ConditionalOperator.exe
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\bin\Debug\net5.0\ConditionalOperator.deps.json
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\bin\Debug\net5.0\ConditionalOperator.runtimeconfig.json
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\bin\Debug\net5.0\ConditionalOperator.runtimeconfig.dev.json
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\bin\Debug\net5.0\ConditionalOperator.dll
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\bin\Debug\net5.0\ref\ConditionalOperator.dll
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\bin\Debug\net5.0\ConditionalOperator.pdb
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\obj\Debug\net5.0\ConditionalOperator.dll
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\obj\Debug\net5.0\ref\ConditionalOperator.dll
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\obj\Debug\net5.0\ConditionalOperator.pdb
+C:\Users\Tiffa\source\repos\ConditionalOperator\ConditionalOperator\obj\Debug\net5.0\ConditionalOperator.genruntimeconfig.cache

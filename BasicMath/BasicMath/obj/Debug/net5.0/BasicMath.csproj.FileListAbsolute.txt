@@ -1,0 +1,16 @@
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\bin\Debug\net5.0\BasicMath.exe
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\bin\Debug\net5.0\BasicMath.deps.json
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\bin\Debug\net5.0\BasicMath.runtimeconfig.json
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\bin\Debug\net5.0\BasicMath.runtimeconfig.dev.json
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\bin\Debug\net5.0\BasicMath.dll
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\bin\Debug\net5.0\ref\BasicMath.dll
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\bin\Debug\net5.0\BasicMath.pdb
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\obj\Debug\net5.0\BasicMath.csprojAssemblyReference.cache
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\obj\Debug\net5.0\BasicMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\obj\Debug\net5.0\BasicMath.AssemblyInfoInputs.cache
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\obj\Debug\net5.0\BasicMath.AssemblyInfo.cs
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\obj\Debug\net5.0\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\obj\Debug\net5.0\BasicMath.dll
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\obj\Debug\net5.0\ref\BasicMath.dll
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\obj\Debug\net5.0\BasicMath.pdb
+C:\Users\Tiffa\source\repos\BasicMath\BasicMath\obj\Debug\net5.0\BasicMath.genruntimeconfig.cache

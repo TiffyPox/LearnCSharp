@@ -1,0 +1,16 @@
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\bin\Debug\net5.0\Incrementing and Decrementing.exe
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\bin\Debug\net5.0\Incrementing and Decrementing.deps.json
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\bin\Debug\net5.0\Incrementing and Decrementing.runtimeconfig.json
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\bin\Debug\net5.0\Incrementing and Decrementing.runtimeconfig.dev.json
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\bin\Debug\net5.0\Incrementing and Decrementing.dll
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\bin\Debug\net5.0\ref\Incrementing and Decrementing.dll
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\bin\Debug\net5.0\Incrementing and Decrementing.pdb
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\obj\Debug\net5.0\Incrementing and Decrementing.csprojAssemblyReference.cache
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\obj\Debug\net5.0\Incrementing and Decrementing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\obj\Debug\net5.0\Incrementing and Decrementing.AssemblyInfoInputs.cache
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\obj\Debug\net5.0\Incrementing and Decrementing.AssemblyInfo.cs
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\obj\Debug\net5.0\Incrementing and Decrementing.csproj.CoreCompileInputs.cache
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\obj\Debug\net5.0\Incrementing and Decrementing.dll
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\obj\Debug\net5.0\ref\Incrementing and Decrementing.dll
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\obj\Debug\net5.0\Incrementing and Decrementing.pdb
+C:\Users\Tiffa\source\repos\Incrementing and Decrementing\Incrementing and Decrementing\obj\Debug\net5.0\Incrementing and Decrementing.genruntimeconfig.cache
