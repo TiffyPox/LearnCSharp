@@ -13,9 +13,9 @@ namespace Integer_Division
             Console.WriteLine(result);
 
             // Result is 3.5 which is correct. Uses "regular" floating point division.
-            float a = 7.0f;
-            float b = 2.0f;
-            float result = a / b;
+            float a2 = 7.0f;
+            float b2 = 2.0f;
+            float result2 = a2 / b2;
             Console.WriteLine(result);
         }
     }
