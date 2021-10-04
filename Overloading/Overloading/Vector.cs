@@ -1,14 +1,12 @@
-﻿using System.Numerics;
-
-namespace Overloading
+﻿namespace Overloading
 {
     public class Vector
     {
-        private double X { get; set; }
-        private double Y { get; set; }
-        private double Z { get; set; }
+        private int X { get; set; }
+        private int Y { get; set; }
+        private int Z { get; set; }
 
-        public Vector(double x, double y, double z)
+        public Vector(int x, int y, int z)
         {
             X = x;
             Y = y;
@@ -30,21 +28,25 @@ namespace Overloading
         // Negate a 3D vector
         public static Vector operator -(Vector v)
         {
-            return new Vector(-v.X, v.Y, -v.Z);
+            return new Vector(-v.X, -v.Y, -v.Z);
         }
 
         // Multiply a vector by a number (scaler)
-        public static Vector operator *(Vector v, double scaler)
+        public static Vector operator *(Vector v, int scaler)
         {
             return new Vector(v.X * scaler, v.Y * scaler, v.Z * scaler);
         }
 
         // Divide a vector by a number (scaler)
-        public static Vector operator /(Vector v, double scaler)
+        public static Vector operator /(Vector v, int scaler)
         {
             return new Vector(v.X / scaler, v.Y / scaler, v.Z / scaler);
         }
 
-        public override string ToString() => $"X: {X} Y: {Y} Z: {Z}";
+        public override string ToString()
+        {
+            return $"X: {X} Y: {Y} Z: {Z}";
+        }
+
     }
 }

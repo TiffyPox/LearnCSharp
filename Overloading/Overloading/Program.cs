@@ -21,10 +21,10 @@ namespace Overloading
             var result5 = (new Vector(2, 4, 6) / 2);
             
             Console.Write(result1.ToString());
-            Console.Write("\n" + result2.ToString());
-            Console.Write("\n" + result3.ToString());
-            Console.Write("\n" + result4.ToString());
-            Console.Write("\n" + result5.ToString());
+            Console.Write("\n" + result2);
+            Console.Write("\n" + result3);
+            Console.Write("\n" + result4);
+            Console.Write("\n" + result5);
         }
     }
 }
