@@ -30,6 +30,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "User Input", "User Input\Us
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables", "Variables\Variables\Variables.csproj", "{5CF46489-152C-44CF-82BB-F02CB93B4C21}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indexers", "Indexers\Indexers.csproj", "{95F92636-D585-4C19-9FBD-B1A2B20AECDB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -96,5 +98,9 @@ Global
 		{5CF46489-152C-44CF-82BB-F02CB93B4C21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5CF46489-152C-44CF-82BB-F02CB93B4C21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5CF46489-152C-44CF-82BB-F02CB93B4C21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F92636-D585-4C19-9FBD-B1A2B20AECDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F92636-D585-4C19-9FBD-B1A2B20AECDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F92636-D585-4C19-9FBD-B1A2B20AECDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F92636-D585-4C19-9FBD-B1A2B20AECDB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
