@@ -2,7 +2,7 @@
 
 namespace Indexers
 {
-    class Program
+    internal static class Program
     {
         static void Main(string[] args)
         {
@@ -13,7 +13,6 @@ namespace Indexers
             dictionary["Apple"] = "A piece of fruit";
 
             Console.WriteLine(dictionary["Apple"]);
-
         }
     }
 }
