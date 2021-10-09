@@ -1,0 +1,3 @@
+Today is day sixty two of one hundred days of code. 
+I have created another Extension Method that counts the number of sentences and paragraphs in a string. For bonus points, I was given the task of creating a program that reads a file and uses the Extension Method to count how many words, sentences and paragraphs are in that file.
+The file my program is going to use is... this one. Unless my program proves otherwise, I have counted 89 words, 5 sentences and 3 paragraphs in this file.
