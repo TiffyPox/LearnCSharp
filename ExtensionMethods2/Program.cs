@@ -8,7 +8,7 @@ namespace ExtensionMethods2
         {
             // Challenge 1 - Word Count
             
-            var message = "Today\n I am on day       sixty of one \thundred days of \rcode!";
+            var message = "Today\n I am on day       sixty one of one \thundred days of \rcode!";
 
             Console.WriteLine($"Words: {message.WordCount()}");
         }

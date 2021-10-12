@@ -40,6 +40,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods4", "Extens
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{D249CF6A-D52E-47CA-A7E5-6629CCD7DDDD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryExpressions", "QueryExpressions\QueryExpressions.csproj", "{2EB75868-D68F-48BE-867A-7EA11E41BDBE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,5 +128,9 @@ Global
 		{D249CF6A-D52E-47CA-A7E5-6629CCD7DDDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D249CF6A-D52E-47CA-A7E5-6629CCD7DDDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D249CF6A-D52E-47CA-A7E5-6629CCD7DDDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EB75868-D68F-48BE-867A-7EA11E41BDBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EB75868-D68F-48BE-867A-7EA11E41BDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EB75868-D68F-48BE-867A-7EA11E41BDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EB75868-D68F-48BE-867A-7EA11E41BDBE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

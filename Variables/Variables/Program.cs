@@ -18,8 +18,6 @@ namespace Variables
             Console.WriteLine(number);
             Console.WriteLine(happy);
             Console.WriteLine(favouriteLetter);
-    
-    
         }
     }
 }

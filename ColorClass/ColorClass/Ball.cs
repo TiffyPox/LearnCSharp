@@ -1,31 +1,29 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Text;
 
 namespace ColorClass
 {
     public class Ball
     {
-        private Color color;
-        private float radius;
-        private int Count;
+        private Color _color;
+        private float _radius;
+        private int _count;
 
         public Ball(Color color, float radius)
         {
-            this.color = color;
-            this.radius = radius;
-            this.Count = 0;
+            this._color = color;
+            this._radius = radius;
+            this._count = 0;
         }
         public void Pop()
         {
             Console.WriteLine("You popped the ball!");
-            radius = 0;
+            _radius = 0;
         }
         public void Throw()
         {
-            if(radius > 0)
+            if(_radius > 0)
             {
-                Count++;
+                _count++;
                 Console.WriteLine("You throw the ball");
             }
             else
@@ -35,7 +33,7 @@ namespace ColorClass
         }
         public int NumberOfThrows()
         {
-            return Count;
+            return _count;
         }
     }
 }

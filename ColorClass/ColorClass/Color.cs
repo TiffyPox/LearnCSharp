@@ -1,69 +1,65 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-
-namespace ColorClass
+﻿namespace ColorClass
 {
     public class Color
     {
-        private byte red;
-        private byte green;
-        private byte blue;
-        private byte alpha;
+        private readonly byte _red;
+        private byte _green;
+        private byte _blue;
+        private byte _alpha;
 
         public Color(byte red, byte green, byte blue, byte alpha)
         {
-            this.red = red;
-            this.green = green;
-            this.blue = blue;
-            this.alpha = alpha;
+            this._red = red;
+            this._green = green;
+            this._blue = blue;
+            this._alpha = alpha;
         }
         public Color(byte red, byte green, byte blue)
         {
-            this.red = red;
-            this.green = green;
-            this.blue = blue;
-            this.alpha = 255;
+            this._red = red;
+            this._green = green;
+            this._blue = blue;
+            this._alpha = 255;
         }
         public byte Red { get; set; }
         public byte Green
         {
             get
             {
-                return green;
+                return _green;
             }
             set
             {
-                green = value;
+                _green = value;
             }
         }
         public byte Blue
         {
             get
             {
-                return blue;
+                return _blue;
             }
             set
             {
-                blue = value;
+                _blue = value;
             }
         }
         public byte Alpha
         {
             get
             {
-                return alpha;
+                return _alpha;
             }
             set
             {
-                alpha = value;
+                _alpha = value;
             }
         }
         public byte Grayscale
         {
             get
             {
-                return (byte)((red + green + blue) / 3);
+                return (byte)((_red + _green + _blue) / 3);
             }
         }
     }

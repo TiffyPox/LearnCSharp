@@ -8,12 +8,12 @@ namespace ConditionalOperator
         {
             Console.WriteLine("Welcome to 'Positive or Negative'!" +
                 "\nPlease give me a positive or negative number:");
-            string numberOne = Console.ReadLine();
-            int firstChoice = Convert.ToInt32(numberOne);
+            var numberOne = Console.ReadLine();
+            var firstChoice = Convert.ToInt32(numberOne);
 
             Console.WriteLine("Please give me another positive or negative number:");
-            string numberTwo = Console.ReadLine();
-            int secondChoice = Convert.ToInt32(numberTwo);
+            var numberTwo = Console.ReadLine();
+            var secondChoice = Convert.ToInt32(numberTwo);
 
             if (firstChoice == 0 || secondChoice == 0)
             {
@@ -39,8 +39,6 @@ namespace ConditionalOperator
                     Console.WriteLine("If you multiply these numbers, the result will be negative!");
                 }
             }
-
-
         }
     }
 }

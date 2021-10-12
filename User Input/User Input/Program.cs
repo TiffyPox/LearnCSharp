@@ -22,7 +22,6 @@ namespace User_Input
 
             Console.WriteLine("The volume of your cylinder is: " + volume + " cubic units.");
             Console.WriteLine("The surface area of your cylinder is: " + surfaceArea + " square units.");
-
         }
     }
 }
