@@ -14,7 +14,6 @@ namespace ExtensionMethods3
             Console.WriteLine($"Words: {file.WordCount()}");
             Console.WriteLine($"Sentences: {file.SentenceCount()}");
             Console.WriteLine($"Paragraphs: {file.ParagraphCount()}");
-            
         }
     }
 }

@@ -12,9 +12,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DecisionMaking", "DecisionM
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\HelloWorld\HelloWorld.csproj", "{8486BF5A-222F-494E-8237-555E8178347A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Incrementing and Decrementing", "Incrementing and Decrementing\Incrementing and Decrementing\Incrementing and Decrementing.csproj", "{915CCF03-EE2B-4733-AC37-08D3E1681833}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IncrementingAndDecrementing", "Incrementing and Decrementing\IncrementingAndDecrementing\IncrementingAndDecrementing.csproj", "{915CCF03-EE2B-4733-AC37-08D3E1681833}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Integer Division", "Integer Division\Integer Division\Integer Division.csproj", "{2BEBB21A-A509-48F0-90EC-BE3D851FEEA0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegerDivision", "Integer Division\IntegerDivision\IntegerDivision.csproj", "{2BEBB21A-A509-48F0-90EC-BE3D851FEEA0}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lists", "Lists\Lists\Lists.csproj", "{7BB9A447-5A9F-4517-A79D-B5B8D47C56B8}"
 EndProject
@@ -41,6 +41,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaExpressions", "LambdaExpressions\LambdaExpressions.csproj", "{D249CF6A-D52E-47CA-A7E5-6629CCD7DDDD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueryExpressions", "QueryExpressions\QueryExpressions.csproj", "{2EB75868-D68F-48BE-867A-7EA11E41BDBE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading", "Threading\Threading.csproj", "{7C5AA022-E6DD-47C4-B26A-DFDD3739084D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogRacing", "FrogRacing\FrogRacing.csproj", "{20A25679-AF7B-4E17-A4F4-002B1D0E5C47}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -132,5 +136,13 @@ Global
 		{2EB75868-D68F-48BE-867A-7EA11E41BDBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2EB75868-D68F-48BE-867A-7EA11E41BDBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2EB75868-D68F-48BE-867A-7EA11E41BDBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C5AA022-E6DD-47C4-B26A-DFDD3739084D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C5AA022-E6DD-47C4-B26A-DFDD3739084D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C5AA022-E6DD-47C4-B26A-DFDD3739084D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C5AA022-E6DD-47C4-B26A-DFDD3739084D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20A25679-AF7B-4E17-A4F4-002B1D0E5C47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20A25679-AF7B-4E17-A4F4-002B1D0E5C47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20A25679-AF7B-4E17-A4F4-002B1D0E5C47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20A25679-AF7B-4E17-A4F4-002B1D0E5C47}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

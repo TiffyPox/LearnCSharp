@@ -14,7 +14,6 @@ namespace ExtensionMethods3
 
             return text.Split('.', StringSplitOptions.RemoveEmptyEntries).Length;
         }
-
         public static int ParagraphCount(this string text)
         {
             return text.Split('\n').Length;

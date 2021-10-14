@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Incrementing_and_Decrementing
+namespace IncrementingAndDecrementing
 {
     class Program
     {
