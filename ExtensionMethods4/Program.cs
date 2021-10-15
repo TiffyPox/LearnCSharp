@@ -9,7 +9,7 @@ namespace ExtensionMethods4
         {
             // Challenge 3 - Lines of Code Count
 
-            string file = File.ReadAllText("C:/Users/Tiffa/OneDrive/Desktop/100DaysOfCode/Code.txt");
+            var file = File.ReadAllText("C:/Users/Tiffa/OneDrive/Desktop/100DaysOfCode/Code.txt");
 
             Console.WriteLine($"Number of lines in your code: {file.LineCount()}");
         }
