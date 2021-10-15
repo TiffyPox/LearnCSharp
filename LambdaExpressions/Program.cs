@@ -17,11 +17,6 @@ namespace LambdaExpressions
             
             numbers.Sort();
 
-            static IEnumerable<int> FindEvenNumbers(List<int> numbers)
-            {
-                return numbers.Where(x => x % 2 == 0); // Using our Lambda Expression here
-            }
-            
             Console.WriteLine("The even numbers are:");
             
             foreach(var number in FindEvenNumbers(numbers))
@@ -29,5 +24,9 @@ namespace LambdaExpressions
                 Console.WriteLine(number);
             }
         }
+            static IEnumerable<int> FindEvenNumbers(List<int> numbers)
+            {
+                return numbers.Where(x => x % 2 == 0); // Using our Lambda Expression here
+            }
     }
 }
