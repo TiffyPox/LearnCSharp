@@ -18,19 +18,20 @@ namespace DynamicObjects
             expando.GoBackInTime = new Action(() => expando.Age--);
 
             expando.GoBackInTime();
+            Console.WriteLine(expando.Name);
             Console.WriteLine(expando.Age);
-            
+
             // ExpandoObject implements IDictionary<string, object> though it does so "implicitly".
-            // That means if you case an ExpandoObject to IDictionary<string, object> you can do some additional cool things like enumerate all members that an ExpandoObject currently has or even delete a member:
-            
+            // That means if you cast an ExpandoObject to IDictionary<string, object> you can do some additional cool things like enumerate all members that an ExpandoObject currently has or even delete a member:
+
             IDictionary<string, object> expandoAsDictionary = (IDictionary<string, object>)expando;
 
+            expandoAsDictionary.Remove("Age"); // Remove the 'Age' property
+            
             foreach (var memberName in expandoAsDictionary.Keys)
             {
-                Console.WriteLine(memberName);
+                Console.WriteLine(memberName); // Print the member names. Age won't be in the list anymore.
             }
-
-            expandoAsDictionary.Remove("Age"); // Remove the 'Age' property
         }
     }
 }

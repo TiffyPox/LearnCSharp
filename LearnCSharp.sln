@@ -48,6 +48,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrogRacing", "FrogRacing\Fr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicObjects", "DynamicObjects\DynamicObjects.csproj", "{28628AF3-4C8C-4296-BF61-A6DAA1C2168B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicType", "DynamicType\DynamicType.csproj", "{B531D439-F7B4-41FF-B64C-C498440E8411}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -150,5 +152,9 @@ Global
 		{28628AF3-4C8C-4296-BF61-A6DAA1C2168B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28628AF3-4C8C-4296-BF61-A6DAA1C2168B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28628AF3-4C8C-4296-BF61-A6DAA1C2168B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B531D439-F7B4-41FF-B64C-C498440E8411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B531D439-F7B4-41FF-B64C-C498440E8411}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B531D439-F7B4-41FF-B64C-C498440E8411}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B531D439-F7B4-41FF-B64C-C498440E8411}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
